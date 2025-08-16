@@ -1,0 +1,31 @@
+{
+  "name": "nullvalidate",
+  "version": "1.0.0",
+  "description": "A utility to check for null, undefined, empty string, empty array, and empty object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nullcheck"
+  },
+  "author": {
+    "name": "Shabbar Hanzala",
+    "email": "hanzala4950@gmail.com"
+  },
+ "keywords": [
+    "null",
+    "empty",
+    "check",
+    "nullcheck",
+    "validation",
+    "utility",
+    "javascript",
+    "typescript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "nullvalidate": "^1.0.0"
+  }
+}
